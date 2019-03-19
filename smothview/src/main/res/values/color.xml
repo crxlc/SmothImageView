@@ -1,0 +1,36 @@
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="lessWhite">#f5f2f2</color>
+    <color name="black">#000000</color>
+    <color name="gray">#939393</color>
+    <color name="smallGray">#c8c8c8</color>
+    <color name="FC2">#666666</color>
+    <color name="base_menu_left_bg">#393c44</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <color name="press_btn_bg">#cfd4df</color>
+
+    <color name="color_bottom_bg">#272a2e</color>
+    <color name="color_bottom_text_normal">#9da0a4</color>
+    <color name="color_bottom_text_press">#4f9ef6</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="msg_chat_bg">#eceff4</color>
+
+    <color name="color_theme">#489cfa</color>
+    <color name="red">#ed4e23</color>
+    <color name="guide_color">#898989</color>
+    <color name="blue">#499BF7</color>
+    <color name="blue2">#319c25</color>
+    <color name="lessgray">#F7F7F7</color>
+    <color name="commonShader">#ece7e7</color>
+    <color name="triangle">#aa72d572</color>
+    <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+
+    <color name="shadow">#25808080</color>
+    <color name="dialog_bg">#f5f5f5</color>
+    <color name="group_press_color">#FFD3D3D3</color>
+    <color name="group_bg_color">#FFEBEBEB</color>
+</resources>
