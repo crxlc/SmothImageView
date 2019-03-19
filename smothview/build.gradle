@@ -32,7 +32,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-    implementation(name: 'photo_view_lib', ext: 'aar')
+    provided(name: 'photo_view_lib', ext: 'aar')
 }
 repositories {
     flatDir {
