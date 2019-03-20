@@ -16,10 +16,11 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.animation.AccelerateDecelerateInterpolator;
 
+import cn.com.cre.smothview.PhotoView;
 import cn.com.cre.smothview.R;
 import cn.com.cre.smothview.utils.CommonUtils;
 
-import uk.co.senab.photoview.PhotoView;
+
 
 /**
  * 2d平滑变化的显示图片的ImageView
